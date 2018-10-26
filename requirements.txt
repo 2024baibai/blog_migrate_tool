@@ -1,0 +1,4 @@
+python_wordpress_xmlrpc
+pymysql
+python_dateutil
+requests
