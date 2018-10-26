@@ -19,7 +19,7 @@ pip install -r requirements.txt
 ```
 2. 修改配置
 修改`config.py`的配置内容：
-    - ####wordpress相关设置
+    - #### wordpress相关设置
         - WP_HOST ：wordpress数据库ip
         - WP_PORT ：MySQL端口，默认3306
         - WP_USER ：wordpress数据库用户名
@@ -29,7 +29,7 @@ pip install -r requirements.txt
         - SITE_USER：wordpress网站管理员用户名
         - SITE_PASSWD：wordpress网站管理员密码
 
-    - ####github pages相关设置
+    - #### github pages相关设置
         - github_pages_url：老博客网址
 
 3. 运行：
